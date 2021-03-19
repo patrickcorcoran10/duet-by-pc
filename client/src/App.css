@@ -1,0 +1,28 @@
+.UserForm{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 25px;
+}
+
+.UserBtn {
+  margin-top: 30px;
+}
+
+.jumbotron {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #0DCAF0;
+  color: white;
+  text-align: center;
+}
+
+/* .navbar {
+  background-color: #17A2B8;
+} */
